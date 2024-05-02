@@ -1,0 +1,167 @@
+/* .login-container {
+    width: 300px;
+    color: black;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form1 {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+  }
+  
+  label {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .in1{
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button.btn1  {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  .setError {
+    color: #ff0000;
+    margin-bottom: 20px;
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateY(-50px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  } */
+
+  /* StaffLogin.css */
+
+.login-container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.form1 div {
+  margin-bottom: 15px;
+}
+
+.form1 label {
+  font-weight: bold;
+}
+
+.in1 {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.btn1 {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn1:hover {
+  background-color: #45a049;
+}
+
+.error-message {
+  color: #f00;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.staff1 {
+  text-align: center;
+  margin: 40px 0px 0px 0px;
+}
+.staffhead{
+  margin-bottom: 40px;
+  color: black  ;
+}
+.staff1_1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.btnstaff1,.btnstaff2,.btnstaff3,.btnstaff4 {
+  width: 200px;
+  height: 40px;
+}
+button.btnstaff1{
+  color: white;
+  background-color: #4caf50 ;
+  border: 1px solid #4caf50;
+}
+button.btnstaff2{
+  color: white;
+  background-color: #eda007 ;
+  border: 1px solid #eda007;
+}
+button.btnstaff3{
+  color: white;
+  background-color: #4caf50 ;
+  border: 1px solid #4caf50;
+}
+button.btnstaff4{
+  color: white;
+  background-color: #eda007 ;
+  border: 1px solid #eda007;
+}
+a {
+  color: white;
+  text-decoration: none;
+}

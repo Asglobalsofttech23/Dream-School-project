@@ -1,0 +1,23 @@
+.barchart{
+    
+    margin-top: 100px;
+    width: 200px;
+    height: 100px;
+    /* background-color: #cbc8c7; */
+    border: 1px solid #cbc8c7;
+    border-radius: 7px;
+    /* transform-style: preserve-3d; */
+    box-shadow: 1px 1px 0 1px #f9f9fb, -1px 0 28px 0 rgba(34, 33, 81, 0.01), 5px 11px 0px 0 rgba(34, 33, 81, 0.25);
+   
+}
+.charts{
+    display: flex;
+    justify-content: space-around;
+}
+.Piechart{
+    margin-top: 80px;
+}
+.barchart canvas{
+    /* background-color: white; */
+    background: linear-gradient(-20deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+}

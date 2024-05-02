@@ -1,0 +1,84 @@
+/* Feechart.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-group label {
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-group input[type="date"] {
+    padding: 6px 8px;
+  }
+  
+  .input-group input[type="number"] {
+    width: 100px; /* Adjust width as needed */
+  }
+  
+  .button-group {
+    margin-top: 20px;
+  }
+  
+  .button-group button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .button-group button:hover {
+    background-color: #45a049;
+  }
+  
+  .fee-list-container {
+    overflow-x: auto;
+  }
+  
+  .fee-list-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .fee-list-container th, .fee-list-container td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .fee-list-container th {
+    background-color: #f2f2f2;
+  }
+  
+  .fee-list-container td button {
+    padding: 6px 10px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .fee-list-container td button:hover {
+    background-color: #da190b;
+  }
+  .feeinput {
+    display: flex;
+}

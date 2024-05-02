@@ -1,0 +1,86 @@
+input.staffstuin {
+  width: 160px;
+  height: 25px;
+}
+.stubtn0{
+  background-color: rgb(91 193 24 / 60%);
+  border: 1px solid rgb(91 193 24 / 60%);
+}
+.students-list {
+  display: flex;
+  justify-content: center;
+  color: black;
+  /* border-collapse: collapse; */
+}
+form.staffstuform {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+td.studtd1 {
+  border: 1px solid;
+}
+table.table {
+  width: 800px;
+  margin-top: 40px;
+}
+.studtd1,.studtd2{
+  text-align: center;
+border: 1px solid;
+padding: 12px;
+}
+.studtd2{
+  display: flex;
+  justify-content: space-evenly;
+}
+.studbtn1{
+  margin-right: 20px;
+  background-color: #0E1241;
+  border: 1px solid #0E1241;
+}
+.studbtn2{
+  background-color: #DE8B7F;
+  border: 1px solid #DE8B7F;
+}
+.studbtn1:hover{
+  background-color: yellowgreen;
+  color: white;
+}
+.studbtn2:hover{
+background-color: yellowgreen;
+color: white;
+}
+.studbtn1,.studbtn2{
+  color: white;
+  width: 60px;
+}
+.studdiv img {
+  width: 240px;
+  position: absolute;
+  top: -8px;
+  left: 20px;
+}
+table.staffstutable {
+  width: 700px;
+  border: 1px solid;
+  border-collapse: collapse;
+  margin: 40px 0px 0px 2px;
+}
+.staffstuback{
+  margin-top: 60px;
+  width: 100px;
+  background-color:#0E1241;
+  color: white;
+  height: 35px;
+  border: 1px solid #0E1241;
+}
+.staffstuback:hover{
+  background-color: #DE8B7F;
+  color: white;
+}
+.staffstubackdiv{
+  width: 75%;
+  text-align: end;
+}
+

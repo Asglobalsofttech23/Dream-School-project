@@ -1,0 +1,29 @@
+.feehead{
+    margin: 40px 0px 40px 590px;
+}
+img {
+    width: 231px;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+  }
+  .feetable{
+    border-collapse: collapse;
+    margin-left: 510px;
+  }
+  .adminfeeviewback{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminfeeviewback:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminfeeviewbackdiv{
+    width: 65%;
+    text-align: end;
+  }

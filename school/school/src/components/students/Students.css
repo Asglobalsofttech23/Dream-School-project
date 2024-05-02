@@ -1,0 +1,110 @@
+/* Students.css */
+
+.Students {
+  color: black;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  img {
+    width: 231px;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+}
+  h1.studhead {
+    margin: 40px;
+}
+  
+  .studhead {
+    text-align: center;
+    color: #333;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .students-list1 {
+    margin-top: 20px;
+  }
+  
+  .table1 {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black; /* Set border color to black */
+  }
+  
+  thead1 {
+    border: 2px solid;
+    background-color: #f2f2f2;
+}
+  
+  .tr1 {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .tr1:last-child {
+    border-bottom: none;
+  }
+  
+  .tr1:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .th1,
+  .td1 {
+    padding: 12px;
+    text-align: left;
+  }
+  .th1, .td1 {
+    border: 2px solid;
+    padding: 12px;
+    text-align: left;
+}
+  
+  .td1 {
+    border-top: 1px solid #ddd;
+  }
+  .adminstuback{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminstuback:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminstubackdiv{
+    width: 100%;
+    text-align: end;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .tr1 {
+      display: block;
+    }
+  
+    .tr1:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+  
+    .th1,
+    .td1 {
+      display: block;
+      text-align: center;
+    }
+  
+    .th1 {
+      background-color: #ddd;
+      font-weight: bold;
+    }
+  
+    .td1 {
+      border-top: none;
+    }
+  }
+  

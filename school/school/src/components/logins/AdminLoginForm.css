@@ -1,0 +1,37 @@
+
+  .admindiv0 {
+    text-align: -webkit-center;
+}
+.admin {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-evenly;
+}
+button.adminbtn {
+  width: 172px;
+  height: 34px;
+  /* color: black; */
+}
+button.adminbtn a {
+  color: #fefcfc;
+  text-decoration: none;
+}
+.adminbtn{
+  border: 1px solid #0E1241;
+  background-color: #0E1241;
+}
+.adminbtn:hover{
+  background-color: #DE8B7F;
+}
+.adminback{
+  margin-top: 60px;
+  width: 160px;
+  background-color: #DE8B7F;
+  color: white;
+  height: 35px;
+  border: 1px solid #DE8B7F;
+}
+.adminback:hover{
+  background-color: #0E1241;
+  color: white;
+}

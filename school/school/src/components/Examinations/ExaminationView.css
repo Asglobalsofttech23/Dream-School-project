@@ -1,0 +1,38 @@
+.th1, .td1 {
+    border: 2px solid;
+    padding: 12px;
+    text-align: center;
+}
+.examhead{
+    text-align: center;
+}
+.examhead {
+    margin: 40px 0px 40px 0px;
+    text-align: center;
+}
+.examviewtable{
+    margin-left: 602px;
+    border-collapse: collapse   ;
+}
+img {
+    width: 231px;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+  }
+  .adminexamback{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminsexamback:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminexambackdiv{
+    width: 58%;
+    text-align: end;
+  }

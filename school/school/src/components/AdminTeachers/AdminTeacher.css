@@ -1,0 +1,89 @@
+
+    .form-container {
+        margin-top: 40px;
+        display: flex;
+        /* gap: 20px; */
+        justify-content: center;
+    }
+    .adminteachers h1{
+        margin-top: 50px;
+        margin-left: 450px;
+    }
+    form.adminteaform {
+       
+        display: flex;
+        gap: 40px;
+    }
+    .teachers-list{
+        display: flex;
+        justify-content: center;
+    }
+    .adminteatable{
+        
+        border-collapse: collapse;
+        width: 1000px;
+        margin-top: 40px;
+        border: 1px solid;
+    }
+    .adminteatd{
+        padding: 10px;
+        text-align: center;
+        border: 1px solid;
+    }
+    .adminteath{
+        border: 1px solid;
+    }
+    .adminteainput{
+        width: 170px;
+        height: 23px;
+    }
+    img {
+        width: 231px;
+        left: 20px;
+        top: 0px;
+        position: absolute;
+      }
+      .adminteabtn{
+        color: white;
+        background-color: rgba(9, 117, 9, 0.878);
+        border: 1px solid  rgba(9, 117, 9, 0.878);
+      }
+      .adminteabtn:hover{
+        background-color: green;
+      }
+      .adminteabtn1{
+        width: 70px;
+      }
+      .adminteabtntd{
+        padding: 10px;
+        text-align: center;
+        border: 1px solid;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+      
+    }
+    .adminteabtn1{
+        background-color: #0E1241;
+        color: white;
+    }
+    .adminteabtn1:hover{
+        background-color: #DE8B7F;
+        color: white;
+    }
+    .adminteaback{
+        margin-top: 60px;
+        width: 100px;
+        background-color:#0E1241;
+        color: white;
+        height: 35px;
+        border: 1px solid #0E1241;
+      }
+      .adminteaback:hover{
+        background-color: #DE8B7F;
+        color: white;
+      }
+      .adminteabackdiv{
+        width: 87%;
+        text-align: end;
+      }

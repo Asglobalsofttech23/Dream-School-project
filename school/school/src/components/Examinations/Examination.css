@@ -1,0 +1,82 @@
+button.exambtn {
+    width: 130px;
+    height: 35px;
+    background: rgb(91 193 24 / 60%);
+    color: white;
+    border: 1px solid;
+}
+button.exambtn:hover{
+    background-color:rgba(46, 110, 3, 0.725) ;
+}
+.examin2{
+    margin-right: 20px;
+}
+.examth1{
+    border:  1px solid ;
+}
+table.examtable {
+    margin-left: 110px;
+    width: 1200px;
+    margin-top: 40px;
+}
+.examtd1,.examtd2{
+    text-align: center;
+ border: 1px solid;
+padding: 12px;
+}
+.examtd2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.exambtn1{
+    margin-right: 20px;
+    background-color: #0E1241;
+    border: 1px solid #0E1241;
+}
+.exambtn2{
+    background-color: #DE8B7F;
+    border: 1px solid #DE8B7F;
+}
+.exambtn1:hover{
+    background-color: yellowgreen;
+    color: white;
+  }
+.exambtn2:hover{
+  background-color: yellowgreen;
+  color: white;
+}
+.exambtn1,.exambtn2{
+    color: white;
+    width: 60px;
+}
+.examdiv img {
+    width: 240px;
+    position: absolute;
+    top: -8px;
+    left: 20px;
+}
+.xamform{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.xaminput{
+    width: 180px;
+    height: 30px;
+}
+.adminxamback{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminxamback:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminxambackdiv{
+    width: 80%;
+    text-align: end;
+  }

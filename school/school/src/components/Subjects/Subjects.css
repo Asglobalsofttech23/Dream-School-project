@@ -1,0 +1,87 @@
+/* ul.sublist{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+table.subtable{width: 400px;
+margin: 40px 0px 0px 492px;
+border-collapse: collapse;
+border: 1px solid white;
+color: rgb(12, 12, 12);
+}
+form.subform    {
+    margin-right: 102px;
+}
+h1.subhead{
+    margin: 40px 0px 40px 621px;
+}
+.subtd1,.subtd2{
+    text-align: center;
+ border: 1px solid;
+padding: 12px;
+}
+.subtd2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.subbtn1{
+    margin-right: 20px;
+    background-color: #0E1241;
+    border: 1px solid #0E1241;
+}
+.subbtn2{
+    background-color: #DE8B7F;
+    border: 1px solid #DE8B7F;
+}
+.subbtn1:hover{
+    background-color: yellowgreen;
+    color: white;
+  }
+.subbtn2:hover{
+  background-color: yellowgreen;
+  color: white;
+}
+.subbtn1,.subbtn2{
+    color: white;
+    width: 60px;
+}
+.subdiv img {
+    width: 240px;
+    position: absolute;
+    top: -8px;
+    left: 20px;
+}
+.subbtn0{
+    background: rgba(62, 149, 4, 0.818);
+    border: 1px solid rgba(103, 236, 15, 0.595);
+    color: white;
+}
+.subbtn0:hover{
+    background-color:rgba(44, 103, 4, 0.866) ;
+    color: white;
+}
+form.subjectform {
+    display: flex;
+    gap: 30px;
+    margin-left: 555px;
+}
+.subjetinput{
+    width: 170px;
+    height: 25px;
+}
+.adminsub1back{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminsub1back:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminsub1backdiv{
+    width: 65%;
+    text-align: end;
+  }

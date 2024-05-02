@@ -1,0 +1,17 @@
+*{
+    color: black;
+    
+   } 
+  h1.teacherhead {
+    margin: 40px 0px 40px 530px;
+}
+.viewteatable {
+    border-collapse: collapse;
+    margin-left: 128px;
+}
+img {
+    width: 231px;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+}

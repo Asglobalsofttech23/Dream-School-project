@@ -1,0 +1,81 @@
+.feediv h1{
+    margin-left: 550px;
+}
+.feeform{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+}
+input.feeinput {
+    width: 180px;
+    height: 24px;
+}
+.feeinputbtn{
+    width: 100px;
+    color: white;
+        background-color: rgba(9, 117, 9, 0.878);
+        border: 1px solid  rgba(9, 117, 9, 0.878);
+}
+.feeinputbtn:hover{
+    color: white;
+    background-color: green;
+  }
+  .feemanagetable {
+    border-collapse: collapse;
+    margin-left: 140px;
+    margin-top: 40px;
+    width: 1100px;
+    border: 1px solid;
+}
+  .feemanageth{
+    padding: 10px;
+    border: 1px solid;
+  }
+  .feemanagetd{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+  }
+  .feeform{
+    margin-top: 70px;
+  }
+  .feemanagebtntd{
+    
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+  }
+  .feemanagebtntd1{
+    width: 70px;
+    color: white;
+    background-color: #0E1241;
+    margin-right: 10px;
+  }
+  .feemanagebtntd2{
+    color: white;
+    background-color: #0E1241;
+    width: 70px;
+    margin-right: 10px;
+  }
+  .feemanagebtntd1:hover,.feemanagebtntd2:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminfeeback{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminfeeback:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminfeebackdiv{
+    width: 87%;
+    text-align: end;
+  }

@@ -1,0 +1,80 @@
+.attenth1,.attentd1{
+    border: 1px solid;
+    text-align: center;
+}
+.atten1head{
+    margin: 40px 0px 40px 560px;
+}
+form.atten1form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 40px 0px;
+}
+.atten1table{
+    border-collapse: collapse;
+    margin-left: 250px;
+    width: 900px;
+}
+button.atten1btn {
+    width: 106px;
+    height: 32px;
+    background-color: rgb(91 193 24 / 60%);
+    border: 1px solid rgb(91 193 24 / 60%);
+}
+button.atten1btn:hover{
+    background-color:  rgba(54, 131, 3, 0.562);
+}
+.attenbtn1{
+    margin-right: 20px;
+    background-color: #0E1241;
+    border: 1px solid #0E1241;
+}
+.attenbtn2{
+    background-color: #DE8B7F;
+    border: 1px solid #DE8B7F;
+}
+.attenbtn1:hover{
+    background-color: yellowgreen;
+    color: white;
+  }
+.attenbtn2:hover{
+  background-color: yellowgreen;
+  color: white;
+}
+.attenbtn1,.attenbtn2{
+    color: white;
+    width: 60px;
+}
+.attendiv img {
+    width: 240px;
+    position: absolute;
+    top: -8px;
+    left: 20px;
+}
+.adminatten1back{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminatten1back:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminatten1backdiv{
+    width: 80%;
+    text-align: end;
+  }
+  .attenth1{
+    padding: 10px;
+  }
+  .attentd1{
+    padding: 10px;
+  }
+  .atten1input{
+    width: 150px;
+    height: 26px;
+  }

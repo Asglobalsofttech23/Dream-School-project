@@ -1,0 +1,23 @@
+.atthead{
+    margin: 40px 0px 40px 560px;
+}
+.attenviewtable{
+    border-collapse: collapse;
+    margin-left: 570px;
+}
+.adminattenviewback{
+    margin-top: 60px;
+    width: 100px;
+    background-color:#0E1241;
+    color: white;
+    height: 35px;
+    border: 1px solid #0E1241;
+  }
+  .adminattenviewback:hover{
+    background-color: #DE8B7F;
+    color: white;
+  }
+  .adminattenviewbackdiv{
+    width: 61%;
+    text-align: end;
+  }
